@@ -1,0 +1,17 @@
+/* Modificações no botão Bootstrap */
+.btn-primary {
+    background-color: purple;
+    border: solid 1px white;
+}
+
+/* Estilo personalizado para um elemento específico */
+.minha-classe {
+    font-size: 18px;
+    color: #333;
+    text-decoration: underline;
+}
+
+/* Estilo personalizado para a tag strong dentro da classe minha-classe */
+.minha-classe strong {
+    color: purple;
+}

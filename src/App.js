@@ -2,7 +2,7 @@ import React from 'react';
 
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
-import './App.css';
+import './css/App.css';
 
 function App() {
   return (
